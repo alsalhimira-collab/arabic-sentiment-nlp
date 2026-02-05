@@ -31,7 +31,4 @@ pip install -r requirements.txt
 jupyter notebook
 
 
-## Author
-Mira Ibrahim AlSalhi  
-Final-year Data Science & Artificial Intelligence Student  
-Amman, Jordan 
+
